@@ -1,0 +1,7 @@
+organization=23isaias
+projectKey=23isaias_ProyectoJavaMaven
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.21709
+dashboardUrl=https://sonarcloud.io/dashboard?id=23isaias_ProyectoJavaMaven
+ceTaskId=AXqxuJsznGObQy0R-6ag
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXqxuJsznGObQy0R-6ag
